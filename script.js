@@ -71,6 +71,7 @@ document.querySelector(".check").addEventListener("click", function () {
   //       "💣  You Lost the Game....";
   //   }
   // }
+  //
 });
 
 document.querySelector(".again").addEventListener("click", function () {
